@@ -31,7 +31,7 @@ John Hoskinson
 Theo Long
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Robot-Tortoise"" >Robot-Tortoise</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Robot-Tortoise" >Robot-Tortoise</a>
 
 ## Photo
 
