@@ -3,8 +3,8 @@ layout: project_template
 title: Robot Tortoise
 description: We want to design a multi-jointed quadruped robot, resembling a tortoise.
 date: 2000-02-03 09:00:00
-hero_image: /web/img/Robot-Tortoise/open_house.png
-image: /web/img/Robot-Tortoise/open_house.png
+hero_image: /web/img/Robot-Tortoise/Hero.png
+image: /web/img/Robot-Tortoise/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
