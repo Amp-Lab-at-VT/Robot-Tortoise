@@ -9,13 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Matthew Levis
-Adam Aronstein
-Johan Hamen
-Jared Verrhoff
-Yash Jain
-John Hoskinson
-Theo Long
+author: Matthew Levis, Adam Aronstein ,Johan Hamen ,Jared Verrhoff,Yash Jain ,John Hoskinson ,Theo Long
 show_sidebar: false
 ---
 
